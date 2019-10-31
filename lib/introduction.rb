@@ -8,7 +8,7 @@
 
 def introduction(name)
 
-puts "Hello #{name}"
+puts "Hello " + name = "."
 
 end
 
