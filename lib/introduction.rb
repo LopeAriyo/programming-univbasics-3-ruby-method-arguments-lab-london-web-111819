@@ -12,13 +12,13 @@ def introduction(name)
 
 end
 
-#def introduction_with_language(name,language)
+def introduction_with_language(name,language)
 
-#end
+end
 
-#def introduction_with_language_optional(name, language = Ruby)
+def introduction_with_language_optional(name, language = Ruby)
 
-#end
+end
 
 
 
